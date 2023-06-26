@@ -1,0 +1,44 @@
+.boton{
+	display: block;
+	border: 1px solid;
+	border-color: #aaa #000 #000 #aaa;
+	width: 8em;
+	background: #aaa;
+	font-size: 1.2rem;	
+	text-decoration: none;
+	text-align: center;
+	color: #000000;
+	margin-left: 11rem;
+}
+body{
+	background: #000000;
+}
+.texto{
+	font-family: "handlee";
+	font-weight: bold;
+}
+.fondo{
+	padding: 1rem;
+	background: #ffffff;
+	width: 530px;
+	margin: 150px auto;
+}
+.portable{
+	display: flex;
+}
+.justificado{
+	justify-content: space-between;
+	text-decoration: solid;
+}
+.parrafo{
+	width:50%;
+	font-size: 1.3rem;
+}
+.imagen{
+	width: 5rem;
+	height: 5rem;
+	object-fit: fill;
+}
+input{
+	width:100%;box-sizing:border-box;background:none;outline:none;resize:none;border:0;font-family:'handlee';font-size:1.3rem;transition:all .3s;border-bottom:2px solid #bebed2;
+}
